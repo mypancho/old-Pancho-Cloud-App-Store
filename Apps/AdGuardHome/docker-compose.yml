@@ -67,7 +67,7 @@ x-casaos:
   author: Mypancho.com
   category: Network
   description:
-    en_us: AdGuard Home is a powerful
+    en_us: AdGuard Home is a versatile network-wide software, safeguarding your home network by blocking ads and tracking scripts. Once set up, it offers comprehensive protection for all your connected devices, ensuring a seamless online experience. By efficiently filtering out ads, it enhances your privacy and security, extending its protection to apps and video streams. AdGuard Home simplifies things; no client-side software is needed, making it user-friendly. Compatible with various devices and operating systems, it caters to your household's needs. As an open-source project, it invites contributions and transparency through our Github repository. Experience a cleaner, faster, and more secure internet with AdGuard Home.
   developer: Adguard
   icon: https://cdn.jsdelivr.net/gh/mypancho/Pancho-Cloud-App-Store@main/Apps/AdGuardHome/icon.png
   screenshot_link:
